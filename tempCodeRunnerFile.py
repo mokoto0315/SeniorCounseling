@@ -1,0 +1,1 @@
+bot.run(setup['Token'], log_level=logging.DEBUG)
